@@ -24,7 +24,7 @@ const images = [
     alt: "Lighthouse Coast Sea",
   }
 ];
-const imagesEl = document.querySelector(".js-gallery");
+const imagesEl = document.querySelector(".gallery");
 
 function galleryCreate (gallery){
   return `
